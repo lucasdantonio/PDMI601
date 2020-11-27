@@ -1,0 +1,14 @@
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\bin\Debug\netstandard2.0\PDM-TP01.deps.json
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\bin\Debug\netstandard2.0\PDM-TP01.dll
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\bin\Debug\netstandard2.0\ref\PDM-TP01.dll
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\bin\Debug\netstandard2.0\PDM-TP01.pdb
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.csprojAssemblyReference.cache
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.AssemblyInfoInputs.cache
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.AssemblyInfo.cs
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.dll
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\ref\PDM-TP01.dll
+C:\Users\Anderson Bucchianico\source\repos\PDM-TP01\PDM-TP01\PDM-TP01\obj\Debug\netstandard2.0\PDM-TP01.pdb

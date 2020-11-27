@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDM_TP01.MainPage">
+
+    <StackLayout Padding="30">
+
+        <Label x:Name="titulo" FontSize="20" Padding="10" FontAttributes="Bold" FontFamily="Georgia">Aplicação Teste</Label>
+
+        <Entry x:Name="user" Text="" Placeholder="Identificador" MaxLength="64" />
+        <Entry x:Name="pass" Text="" Placeholder="Senha" MaxLength="64" IsPassword="true"/>
+        
+        <Button Clicked="onClickOk" x:Name="btn1" Margin="0" Text="OK" ></Button>
+        <Button Clicked="onClickLimpar" x:Name="btn2" Margin="0" Text="Limpar" ></Button>
+        <Button Clicked="onClickCreditos" x:Name="btn3" Margin="0" Text="Créditos" ></Button>
+
+        <Label FontSize="12" Padding="0, 20, 0, 0">Registro de Eventos:</Label>
+        <Label x:Name="consoleLog" FontSize="16" BackgroundColor="#DDDDDD" Padding="20"  FontFamily="Generic Monospace"></Label>
+
+    </StackLayout>
+
+</ContentPage>
